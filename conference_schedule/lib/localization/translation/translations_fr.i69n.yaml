@@ -1,20 +1,17 @@
-conferenceVocabulary:
-  juniorTrack: 'Junior Track'
-  seniorTrack: 'Senior Track'
-  breakTime: 'Pause'
-  qaSession: 'Session Q&A'
-  panelDiscussion: 'Panel de discussion'
-
-buttons:
-  addToCalendar: 'Ajouter au calendrier'
-  retry: 'Réessayer'
-
-tooltips:
-  search: 'Chercher'
-  close: 'Fermer'
-  openSocialProfile(String name): 'Ouvrir le profil de $name'
-
-errors:
-  genericError: "Oh là là! Quelque chose s'est mal passé."
-
-likesCount(int count): "$count ${_plural(count, zero: 'likes', one: 'like', many: 'likes')}"
+---
+conferenceVocabulary: 
+    juniorTrack: "Piste pour junior"
+    seniorTrack: "Piste Senior"
+    breakTime: "Temps de pause"
+    qaSession: "Session de Q&R"
+    panelDiscussion: "Table ronde"
+buttons: 
+    addToCalendar: "Ajouter au calendrier"
+    retry: "Réessayer"
+tooltips: 
+    search: "Rechercher"
+    close: "Fermer (Close)"
+    openSocialProfile(String name): "Ouvrir $name profil"
+errors: 
+    genericError: "Oups ! Une erreur s'est produite."
+likesCount(int count): "$count ${_plural(count, zero: 'mentions J'aime', one: 'aime', many: 'mentions J'aime')}"
