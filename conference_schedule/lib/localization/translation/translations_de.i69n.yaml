@@ -1,0 +1,17 @@
+---
+conferenceVocabulary: 
+    juniorTrack: "Junior track"
+    seniorTrack: "Senioren-Strecke"
+    breakTime: "Zeit bis zur Pause"
+    qaSession: "Q&A-Trainingseinheit"
+    panelDiscussion: "Podiumsgespräch"
+buttons: 
+    addToCalendar: "Zur geänderten Kalenderzeile hinzufügen"
+    retry: "Versuchen Sie es erneut"
+tooltips: 
+    search: "Suche"
+    close: "Schliessen"
+    openSocialProfile(String name): "$name profil öffnen"
+errors: 
+    genericError: "Ups! Etwas stimmt nicht."
+likesCount(int count): "$count $ {_plural (count, zero: 'mag', one: 'wie', many: 'mag')}"
