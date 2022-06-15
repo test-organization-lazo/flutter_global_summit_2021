@@ -4,6 +4,7 @@ conferenceVocabulary:
   breakTime: 'Break time'
   qaSession: 'Q&A Session'
   panelDiscussion: 'Panel discussion'
+  panelDiscussionTest: 'Test Panel discussion'
 
 buttons:
   addToCalendar: 'Add event to calendar now'
