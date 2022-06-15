@@ -1,0 +1,29 @@
+{
+  "@@locale": "en",
+  "@@context": "HomePage",
+  "@conferenceVocabulary": {
+    "juniorTrack": "Junior Track",
+    "seniorTrack": "Senior Track",
+    "breakTime": "Break time",
+    "qaSession": "Q&A Session",
+    "panelDiscussion": "Panel discussion"
+  },
+  "@buttons": {
+    "addToCalendar": "Add to calendar",
+    "retry": "Retry"
+  },
+  "@tooltips": {
+    "search": "Search",
+    "close": "Close",
+    "openSocialProfile": "Open {0} profile"
+  },
+  "@errors": {
+    "genericError": "Oops! Something when wrong."
+  },
+  "likesCountZero": "No likes",
+  "likesCountOne": "1 like",
+  "likesCountOther": "$likesCount likes",
+  "@likesCountOneTitle": {
+    "plural": "likesCount"
+  }
+}
