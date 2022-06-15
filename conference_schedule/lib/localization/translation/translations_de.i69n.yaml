@@ -5,6 +5,7 @@ conferenceVocabulary:
     breakTime: "Zeit bis zur Pause"
     qaSession: "Q&A-Trainingseinheit"
     panelDiscussion: "Podiumsgespräch"
+    panelDiscussionTest: "Podiumsgespräch"
 buttons: 
     addToCalendar: "Ereignis zum Kalender hinzufügen"
     retry: "Versuchen Sie es erneut"
