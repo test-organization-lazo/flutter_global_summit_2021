@@ -5,6 +5,7 @@ conferenceVocabulary:
     breakTime: "Temps de pause"
     qaSession: "Session de Q&R"
     panelDiscussion: "Table ronde"
+    panelDiscussionTest: "Table ronde"
 buttons: 
     addToCalendar: "Ajouter un événement au calendrier"
     retry: "Réessayer"
