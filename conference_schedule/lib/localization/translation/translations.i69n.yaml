@@ -6,7 +6,7 @@ conferenceVocabulary:
   panelDiscussion: 'Panel discussion'
 
 buttons:
-  addToCalendar: 'Add to calendar'
+  addToCalendar: 'Add event to calendar'
   retry: 'Retry'
 
 tooltips:
