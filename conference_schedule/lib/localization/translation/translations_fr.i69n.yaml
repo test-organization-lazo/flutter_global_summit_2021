@@ -6,12 +6,12 @@ conferenceVocabulary:
     qaSession: "Session de Q&R"
     panelDiscussion: "Table ronde"
 buttons: 
-    addToCalendar: "Ajouter au calendrier"
+    addToCalendar: "Ajouter un événement au calendrier"
     retry: "Réessayer"
 tooltips: 
     search: "Rechercher"
     close: "Fermer (Close)"
-    openSocialProfile(String name): "Ouvrir $name profil"
+    openSocialProfile(String name): "Ouvrir le profil $name"
 errors: 
     genericError: "Oups ! Une erreur s'est produite."
 likesCount(int count): "$count ${_plural(count, zero: 'mentions J'aime', one: 'aime', many: 'mentions J'aime')}"
